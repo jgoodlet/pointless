@@ -1,0 +1,14 @@
+{
+    "author": "Joshua Goodlett",
+    "name": "pointless",
+    "description": "Another node.js micro-blogging framework.",
+    "version": "0.0.1",   
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/"
+    },
+    "main": "main.js",
+    "devDependencies": {},
+    "scripts": {}
+}
